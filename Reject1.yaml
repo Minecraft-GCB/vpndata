@@ -14,6 +14,7 @@ proxy-groups:
     type: select
     proxies:
       - REJECT
+      - DIRECT
 rules:
   - GEOIP,CN,🎯 全球直连
   - MATCH,🛑 全球拦截
