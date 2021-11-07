@@ -17,7 +17,7 @@ proxy-groups:
       - DIRECT
 rules:
   - DOMAIN-SUFFIX,baidu.com,🎯 全球直连
-  - DoMAIN-SUFFIX,xueshu.baidu.com,🎯 全球直连
+  - DOMAIN-SUFFIX,xueshu.baidu.com,🎯 全球直连
   - DOMAIN-SUFFIX,baike.baidu.com,🎯 全球直连
   - DOMAIN-SUFFIX,image.baidu.com,🎯 全球直连
   - DOMAIN-SUFFIX,zhidao.baidu.com,🎯 全球直连
